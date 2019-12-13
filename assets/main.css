@@ -1,0 +1,36 @@
+/* main colors: #dd2222, #AD2222 */
+/* by Ron */
+
+
+/* Bootstrap colors */
+.bg-artemais {
+	background-color: #AD2222;
+	color: #FFF;
+}
+
+.bg-artemais li {
+	background-color: #AD2222;
+	color: #FFF;
+	list-style-type: none;	/* remove dot from li */
+	border: solid #AD2222;
+	border-color: #AD2222;
+}
+
+.bg-artemais a {
+	background-color: #AD2222;
+	color: #FFF;
+	text-decoration: none;
+	border-radius: 5px;
+}
+
+.bg-artemais a:hover {
+	background-color: #FFF;
+	color: #AD2222;
+	text-decoration: none;
+	border-radius: 5px;
+}
+
+/* Description */
+.description {
+	margin-left: 5px;
+}
