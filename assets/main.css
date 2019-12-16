@@ -23,13 +23,6 @@
 	border-radius: 5px;
 }
 
-.bg-artemais a:hover {
-	background-color: #FFF;
-	color: #AD2222;
-	text-decoration: none;
-	border-radius: 5px;
-}
-
 /* Description */
 .description {
 	margin-left: 5px;

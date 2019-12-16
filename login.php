@@ -33,29 +33,44 @@
 				</div>
 				<div class="col"></div>
 			</div>
-			<nav class="navbar navbar-expand-md bg-artemais">
-				<!-- Navigation -->
-				<li class="nav-item">
-					<a href="index.php"><i class="fas fa-home"></i></a>
-				</li>
-				<li class="nav-item">
-					<a class="category" href="#">Tecnologia</a>
-				</li>
-				<li class="nav-item">
-					<a class="category" href="#">Ciência</a>
-				</li>
-				<li class="nav-item">
-					<a class="category" href="#">Música</a>
-				</li>
-				<li class="nav-item">
-					<a class="category" href="#">Cinema</a>
-				</li>
-				<li class="nav-item">
-					<a class="category" href="#">Games</a>
-				</li>
-
-			</nav>
 		</header>
+			<nav class="navbar navbar-expand-md bg-artemais navbar-dark">
+  			<a class="navbar-brand" href="#"><i class="fas fa-home"></i></a>
+  			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+    			<span class="navbar-toggler-icon"></span>
+  			</button>
+  			<div class="collapse navbar-collapse" id="collapsibleNavbar">
+    			<ul class="navbar-nav">
+						<li class="navbar-nav">
+							<a class=""> <!-- Inserir espaço aqui -->
+						</li>
+      			<li class="nav-item">
+        			<a class="nav-link" href="#">Tecnologia</a>
+      			</li>
+      			<li class="nav-item">
+        			<a class="nav-link" href="#">Ciência</a>
+      			</li>
+      			<li class="nav-item">
+        			<a class="nav-link" href="#">Música</a>
+      			</li>
+						<li class="nav-itemm">
+        			<a class="nav-link" href="#">Cinema</a>
+      			</li>
+						<li class="nav-item">
+        			<a class="nav-link" href="#">Games</a>
+      			</li>
+						<li class="nav-item">
+							<input class="form-control mr-sm-2" type="text" placeholder="Pesquisar">
+						</li>
+						<li class="nav-item">
+    					<button class="btn btn-light" type="submit"><i class="fas fa-search"></i></button>
+						</li>
+						<li class="nav-item">
+							<button class="btn btn-light" type="submit">Entrar</button>
+						</li>
+    			</ul>
+  			</div>
+			</nav>
 
 		<!-- END HEADER -->
 
