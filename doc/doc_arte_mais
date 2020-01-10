@@ -1,0 +1,179 @@
+Projeto Integrador – Final 
+Revista Arte+
+
+Alunos: Ronaldo Soares, Marcelo Bezerra, Rhuan Bello e Lucas Mendes
+Instrutor: João Cláudio
+Data: 17 de janeiro de 2020
+
+Produto viável mínimo (MVP)
+Em nosso aplicativo/site vamos promover uma plataforma informativa, com o intuito de levar para nossos membros as melhores notícias que acontece no mundo nacional e internacional e o mais óbvio de seu próprio interesse.
+Com matérias escritas por nossos escritores e jornalistas do mundo da música, jogos, cinema e etc. Levando informação para todos em nosso site ou em nosso aplicativo.
+
+Descrição do Projeto
+Depois de uma longa pesquisa na área da informação, chegamos à conclusão de que existe uma baixa demanda de site e/ou aplicativos práticos que entregam informações rápidas e de boa qualidade. Por isso, decidimos criar a Arte+. Uma revista digital feita para facilitar e informar, com matérias voltadas para as áreas de tecnologia, cultura e ciência. Os artigos serão desenvolvidos por nossa equipe, que futuramente buscará a ajuda de outros colaboradores, criando assim, um jornal eletrônico onde todos poderão se cadastrar para discutir e comentar sobre os artigos, ou até mesmo, criar o seu próprio, tendo seu nome creditado na matéria desenvolvida. Nosso lema é: “Informação para todos”. Combatendo os jornais eletrônicos onde os usuários precisam pagar para ler. Acreditamos que o conhecimento deve ser acessível (aplicativo, web) e gratuito. 
+
+Escopo do Projeto
+Site: Na tela principal irá conter um NavBar contendo: Pagina principal, Tecnologia, Cinema, Música, games e um campo de pesquisa, todos eles sendo direcionáveis para seus respectivos caminhos. Logomarca vai ficar centralizada no meio do NavBar e o slogan no canto superior esquerdo.
+Logo abaixo irá conter os destaques com os principais artigos em destaques e mais abaixo mais mini artigos que quando selecionados serão redirecionado para o artigo completo antes do fim da página terá uma área de comentário.
+
+No final de cada janela irá ter um rodapé contendo quem somos, redes sociais, políticas de privacidade e fale conosco. 
+
+
+Requisitos de Alto Nível
+O sistema deve incluir o seguinte:
+•	Capacidade de permitir que os usuários internos façam pesquisas e comentem em publicações
+•	Capacidade de filtrar as informações de acordo com o que desejar  
+
+Plano de Implementação
+•	Criar um sistema de matérias em áudio para que os usuários possam escutar as matérias 
+•	Abrir uma aba onde os próprios usuários poderão escrever suas próprias matérias
+•	Fórum (Para que cada usuário possa compartilhar experiência em determinado assunto postando texto, foto e vídeos.)
+
+Modelo de Negócio (Canvas)
+Proposta de valor: Nossa equipe percebeu no mercado brasileiro uma carência voltada a aplicativos/sites que são focados em levar informação confiável para seus usuários.
+Segmentos de clientes: Leitores de diversos nichos.
+Os canais: Nossa empresa Arte+ será em duas plataformas mobile e desktop, contendo um site e um aplicativo que poderão ser acessados gratuitamente podendo fazer login ou não.
+Relacionamento com o cliente: Nossa comunicação será feita pelas mídias sociais e também pelo próprio site/aplicativo.
+Atividade-chave: Tecnologia, informação, cultura, arte, cinema 
+Recursos principais: Computadores, servidores de hospedagem e internet 
+Parcerias principais: Lojas de cultura pop, livrarias, lojas de eletrônicos, 
+Fonte de receita: Propagandas, Anúncios de parceiros, formulação de projetos externos 
+Estrutura de custos: Publicidade, Programadores, Designers, Redator, Infraestrutura, hospedagem de site, publicação de aplicativos, domínio e propaganda
+
+Sobre a Empresa
+Nós da Arte+ somo uma empresa que cresceu em um cenário com pouca informação internacional explicada e detalhada para a língua portuguesa, então montamos uma equipe para filtrar essas informações e fornecê-las para os clientes da melhor maneira possível.
+
+Estrutura Organizacional e Plano Estratégico
+Missão -  Promover a Cultura e Tecnologias
+Visão – Dispor de Informação de qualidade com fontes altamente confiáveis
+Valores – Ética e compromisso com a veracidade dos fatos.
+
+Quantificando o Mercado
+Público alvo – artistas, profissionais de T.I e hobistas, Gamers, Estudantes em Geral, Nerds e Geeks.
+O tamanho do mercado – O mercado é altamente competitivo e abrange jornais e revistas, físicas e digitais.
+
+Analisando a Concorrência
+Com uma boa analisada do mercado percebemos que tem pouco sites/aplicativos que dispõem de informação confiável rápida e prática.
+
+RELAÇÃO DE CUSTOS
+Publicitários =  R$ 1838,34 /mês
+Programadores = R$ 2675,12 /mês
+Designers = R$ 2100,87 /mês
+Redatores = R$ 2564,10 /mês
+Publicação do site = R$ 189,80 /ano
+Publicação App 
+   - AppleStore R$ 395,57 /ano
+   - Play store R$ 99,98 /único
+Domínio R$ 40,00 /único
+Infraestrutura = R$ 5000,00 /caixa
+Propaganda R$ 2000,00 /caixa
+Total 1° mês = R$ 16903,78
+Total 2°mês = R$ 9178,43
+Total por ano = R$ 582,37
+Caixa inicial = R$ 7000,00
+Valor do investimento = R$ 30.000,00
+
+Modelagem de Dados Cadastro/Login
+Para comentar no site:
+Comentar => Logado ? => comentar.
+Comentar => não logado ? => logar => comentar.
+Comentar => não logado ? => sem login ? => cadastrar => logar => comentar.
+
+Políticas de Privacidade e Segurança
+A Política de Privacidade e Segurança da Arte+ é uma declaração criada para garantir a privacidade e segurança dos nossos usuários.
+1.	As informações pessoais fornecidas pelos nossos usuários, tanto no site quanto no aplicativo são de uso restrito da Arte+. O uso dos dados tem o propósito de fornecer um melhor resultado nas pesquisas e uma melhor experiência do usuário com a personalização dos serviços disponíveis.
+2.	Não serão divulgadas informações sobre os acessos realizados por seus usuários, a menos que seja obrigado a fazê-lo mediante ordem judicial ou no estrito cumprimento de norma legal. Da mesma forma, a Arte+ mantém confidenciais os dados cadastrais privados de seus usuários, só os revelando a terceiros nos casos em que não haja vedações legais, ou em razão de ordem judicial, ou, ainda, mediante autorização de seus titulares.
+3.	A Arte+ envia e-mails para seus usuários até que o próprio informe ao aplicativo que não deseja mais receber tais e-mails.
+4.	O site e aplicativo Arte+ pode, eventualmente, gravar arquivos de dados em seu computador chamados cookies. Geralmente, eles incluem datas ou mensagens na forma de texto. Por meio dos cookies, os sistemas automatizados da Arte+, pode identificar suas visitas anteriores, personalizar sua página de abertura de sites ou inibir a exibição de mensagens vistas anteriormente. Os cookies podem ser desabilitados pelo usuário nas configurações de sua conta ou nas configurações do seu navegador, no caso do site Arte+.
+5.	O site e aplicativo Arte+ oferece links para páginas de terceiros na Internet.  A Arte+ não pode se responsabilizar pela política de privacidade praticada pelos sites acessados por meio dos referidos links.
+6.	O site e aplicativo Arte+ não se responsabiliza pelo conteúdo dos comentários. Os comentários são de responsabilidade dos próprios autores.
+
+Publicidade
+Somos uma das novas plataformas de comunicação online que iremos falar sobre tudo que se passa no mundo digital, artístico e científico, mantendo nossos leitores sempre informados sobre as novas notícias sobre o mundo da tecnologia, ciência, artes, cinema e música, sempre gerando conteúdo de valor, com opiniões e responsabilidade com a verdade. Buscando sempre trazer todas as informações em primeira mão. E os adicionado em artigos detalhados junto com nossas análises.
+
+Porque anunciar no Arte+?
+Porque vamos nos tornar a maior comunidade de notícias do mercado Brasileiro; - Porque e queremos inovar no modo que levamos as notícias para nossos leitores;
+
+Perfil de audiência
+Nós iremos ter uma audiência para todo público que esteja em busca de conhecimento sobre nossas áreas de atuação, são consumidores de novidade e formadores de opinião.
+
+Espaços Publicitários
+A Arte+ irá lançar uma campanha de alto impacto para anunciar para anunciar um produto ou serviço da sua empresa. Temos opções adequadas para sua necessidade.
+Home: Customizando a HOME do site Arte+, sua empresa criará uma campanha totalmente personalizada e impactante, gerando resultados que irão superar suas expectativas.
+Tamanho: Personalizado
+Peso máximo permitido: 300kb
+CTR Tabela: R$ 2.500,00 por diária
+Superbanner: Padrão mais adotado pelo mercado publicitário atualmente, o Superbanner está localizado no topo de todo o Arte+, fazendo com que todos os usuários que acessem o site/aplicativo visualizem a publicidade ali presente tão logo entrem no site. 
+Tamanho: 728x90px
+Peso máximo permitido: 20kb
+CTR tabela: Sob consulta
+Halfpage: posicionado ao lado dos destaques principais da HOME do Site Arte+, em várias áreas de conteúdo do site e aplicativo, este formato possui posicionamento estratégico e costuma trazer um ótimo ROI - retorno sobre investimento, para os anunciantes
+Tamanho: 120x600px
+Peso máximo permitido: 20kb
+CTR tabela: R$ 10,00 / COM
+Island: Formato que permite melhores opções de criação gráfica, o Island está localizado em áreas distintas na maioria das seções do site. 
+Tamanho: 300x250px
+Peso máximo permitido: 20kb
+CTR tabela: Sob consulta
+
+Termos e Condições de Uso
+O uso do jornal eletrônico arte+ está condicionado à aceitação e ao cumprimento dos Termos e Condições de Uso descritos abaixo. Para fazer uso do nosso site/aplicativo é preciso:
+1.	Ler atentamente os termos descritos abaixo;
+2.	Concordar expressamente com eles;
+Ao fazer uso do Jornal Eletrônico, você (a partir de agora denominado Usuário) concorda que leu, entendeu e aceitou os termos, regras e condições aqui dispostos.
+
+Comentários
+1.1 O jornal eletrônico arte+ disponibilizará uma plataforma interativa ao Usuário, através da qual será possível publicar e armazenar comentários a respeito dos conteúdos (matérias e artigos).
+1.2. A Plataforma destina-se ao debate sobre o conteúdo publicado nos sites que integram a Arte+, apenas para fins informativos e de entretenimento, excluindo qualquer utilização comercial ou publicitária. A Plataforma e os Comentários não constituem aconselhamento jurídico, financeiro, médico ou profissional de qualquer natureza, pelo que não deverão ser utilizados para tais fins.
+1.3. Os Comentários feitos por você (usuário) serão identificados como de sua autoria, sendo proibido o anonimato. Os Comentários serão publicados sem qualquer edição ou prévia moderação.
+Cadastro
+2.1. Para utilizar a área de comentário, você deverá se cadastrar, criar um login e uma senha de acesso. Caso não possua cadastro no Jorna Eletrônico Arte+, cadastre-se gratuitamente informando seus dados pedidos.
+2.1.1. Ao se cadastrar, você deverá informar dados verdadeiros, que serão de sua exclusiva responsabilidade. 
+2.1.2 Lembre-se: Você não poderá escolher como seu nome de usuário já utilizados por outros Usuários; que ofendam a terceiro; iguais a marcas de produtos ou serviço de terceiros, denominações sociais, expressões publicitárias, nomes ou pseudônimos de personalidades públicas, de pessoas famosas ou registrados por terceiros, ou que façam alusão a identidade destas, e também nomes de marcas, programas, produtos ou serviços das Empresas ou de qualquer uma de suas sociedades direta ou indiretamente controladas, controladoras ou sob controle comum.
+2.2. Para se cadastrar, você precisa de ter ao menos 18 anos completados e ser capaz de fazer uma declaração nesse sentido. Se você for menor de 18 anos ou necessitar de representação na forma da lei, seus pais ou responsáveis deverão lhe representar ou assistir. Neste caso, eles deverão preencher o seu cadastro e se responsabilizam integralmente por você e por seus atos
+2.3. As Empresas manterão os Dados Pessoais, através de seu sistema automatizado, para os usos e finalidades definidas na sua Política de Privacidade.
+Gratuidade
+O Jornal eletrônico é oferecido ao Usuário de forma gratuita. Os valores referentes à utilização dos serviços necessários ao acesso à Internet, entre outros, são de responsabilidade exclusiva do Usuário. O acesso ao Jornal eletrônico ocorre de forma livre. Não necessitando de cadastro para a utilização do mesmo.
+Cessão de Direitos
+4.1. Ao aceitar este Termo de Uso, você concede ao Arte+, e a terceiros indicados uma licença perpétua, utilizada para publicar, transmitir, distribuir e exibir o conteúdo dos comentários fornecidos por você.  
+4.2 O Arte+ poderá utilizar, trechos ou partes de seu comentário, que você receba qualquer tipo de remuneração ou compensação, exemplificando, utilizando para produção publicidade e material de divulgação.
+Exclusão de Garantias e Responsabilidade
+5.1 O Jornal Eletrônico não tem obrigação de monitorar como os usuários utilizam a plataforma. O Arte+ não garante que seus Usuários usem a plataforma conforme a lei, com este Termo de Uso ou de acordo com os valores presumidos pela sociedade. O arte + não possui obrigação de verificar a veracidade e autenticidade dos dados que os Usuários fornecem sobre si mesmo, dos comentários e informações sobre terceiros.
+5.2. O Arte+ não garantem a privacidade e a segurança na utilização da Plataforma por parte dos Usuários e, em particular, não garante e se eximir da responsabilidade quanto à prática por terceiros não autorizados de atos de interceptação, eliminação, alteração, modificação ou manipulação dos Comentários.
+5.3 Você, Usuário é o único responsável pelo que escreve em seu comentário, então responderá integralmente por qualquer ofensa a terceiro que seu comentário possa causar. Você deverá assumir todas as responsabilidades decorrente do descumprimento de tais obrigações, até com indenização regressiva do nosso Jornal, caso venha ser condenada ao pagamento de indenização ou outro tipo de pagamento caso os atos praticados por você em desacordo com este termo de uso ou legislação aplicável.
+
+Vigência
+6.1. A autorização ora concedida para uso da Plataforma tem duração por prazo indeterminado. O Jornal Eletrônico Arte+ reservam-se o direito de dar por terminada ou suspender a disponibilização da Plataforma (discussão) a qualquer tempo, a seu exclusivo critério.
+6.2. Ademais, O Arte+ se reserva o direito de modificar unilateralmente a apresentação e configuração da Plataforma, assim como as condições ora requeridas para sua utilização.
+Disposições Gerais
+7.1. O não exercício pelo Usuário de quaisquer direitos ou faculdades que lhes sejam conferidos por este Termo de Uso ou pela legislação brasileira, bem como a eventual tolerância contra infrações a este Termo de Uso, não importará na renúncia aos seus direitos, novação ou alteração de itens e cláusulas deste Termo de Uso, exercê-los a qualquer momento.
+7.2. A marcação do “check-box” ao lado do texto "Concordo com os Termos", seguida pelo clique no botão "aceitar" e/ou a utilização da Plataforma por Você são consideradas, para todos os fins de direito, como sua aceitação de todos os termos e condições do presente Termo de Uso.
+7.3. Todos os demais avisos, regulamentos e instruções do Jornal Eletrônico Arte+, bem como a Política de Privacidade, complementam este Termo de Uso, no que não divergirem do presente instrumento.
+
+Relatório de desenvolvimento
+13 de novembro: Organização dos grupos e pensando em ideias para o projeto.
+18 de novembro: Foi dada a ideia para criar uma hamburgueria digital então começamos a pensar em como elaborar o projeto como: Onde íamos atuar, como seria feita para entregar os pedidos, e como iríamos começar a produzir nossos hambúrgueres.
+22 de novembro: Pivotamos a ideia e escolhemos um site/aplicativo informativo para selecionar notícias internacionais para levar ao público brasileiro. Pivotamos a ideia pois não estávamos conseguindo encaixar uma ideia consistente, então começamos a elaborar outra ideias para poder formular um aplicativo/site que possa levar informação de qualidade de uma maneira fácil.
+25 de novembro: Começamos a rascunhar uma interface para o aplicativo mobile, criamos um formulário de pesquisa para saber se nosso app seria bem recebido no meio informativo, e demos início a criação da nossa logo junto de nossa paleta de cores.
+27 de novembro: Modelamos o cadastro de usuários do site esse mesmo sistema será usado no app, demos início da documentação(escopo), e continuamos a achar um modelo da logo e escolher as cores que vão fazer parte da paleta de cores.
+29 de novembro: Terminamos a logo e decidimos a paleta de cores elas são; #DD2222, #FFFFFF, #000000.
+04 de dezembro: Correção da documentação (escopo), modelagem do site.
+06 de dezembro: Criação e implementação do banco de dados. Início do projeto com versionamento em git, discussão das tecnicidades sobre a implementação do projeto. Início do desenho das telas principais e definição do design das imagens das categorias.
+09 de dezembro: Continuação das implementações do banco de dados e sistema de gerenciamento de usuários e continuação do design.
+11 de dezembro: Fazendo correções da documentação, desenvolvendo sistema de comentários.
+16 de dezembro: Condições de uso e de publicidade foram feitas.
+6 de janeiro:  Orçamento feito junto com apreciação da documentação.
+8 de janeiro: Formatação final e revisão da documentação.
+
+Aprovação e autoridade para proceder
+Aprovamos o projeto como descrito acima e autorizamos a equipe a prosseguir.
+Nome	Assinatura	Data
+Lucas Mendes		
+Marcelo Bezerra		
+Rhuam Bello		
+Ronaldo Alcântara		
+
+								
+Aprovado por			Data		Aprovado por			Data
+
+
